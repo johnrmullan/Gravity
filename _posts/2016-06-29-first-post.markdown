@@ -9,7 +9,7 @@ This is my first blog post.  I am learning how to build a website in my class, I
 
 It's a pretty interesting  class; it's my first course for my Information Systems minor.  
 
-Here is a link to the School of Information and Library Science at UNC! [UNC](https://sils.unc.edu/)
+Here is a link to the School of Information and Library Science at [UNC](https://sils.unc.edu/)! 
 
 Here is a photo of Manning Hall; this the School of Information and Library Science is located. 
 
