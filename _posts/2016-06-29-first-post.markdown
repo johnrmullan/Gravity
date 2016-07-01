@@ -11,4 +11,6 @@ It's a pretty interesting  class; it's my first course for my Information System
 
 Here is a link to the School of Information and Library Science at UNC! [UNC](https://sils.unc.edu/)
 
-Here is a photo of Manning Hall; this the School of Information and Library Science is located. ![School of Information and Library Science](https://sils.unc.edu/sites/default/files/general/about/manninghall.jpg)
+Here is a photo of Manning Hall; this the School of Information and Library Science is located. 
+
+![School of Information and Library Science](https://sils.unc.edu/sites/default/files/general/about/manninghall.jpg)
