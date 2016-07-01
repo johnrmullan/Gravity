@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Photography
 permalink: /photography/
 category:
