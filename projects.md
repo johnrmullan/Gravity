@@ -43,5 +43,7 @@ We also are hoping to entice these schools to actually collect data on the amoun
 * What types of foods are discarded more?
 * And more! 
 
-These questions are very important when you consider the number of schools and the fiscal cost of providing lunches.  
+These questions are very important when you consider the number of schools and the fiscal cost of providing lunches. 
+
+More updates to come!
 
