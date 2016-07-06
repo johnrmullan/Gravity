@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 # School Cafeteria Discards Assessment Project (SCrAP)
 
-I began my internship at EREF (Environmental Research and Education Foundation) in April of this year. I've loved the experience so far and am excited to be working on a huge project for the foundation, SCrAP.I
+I began my internship at EREF (Environmental Research and Education Foundation) in April of this year. I've loved the experience so far and am excited to be working on a huge project for the foundation, SCrAP.
 
 Roughly 40% of food produced in the United States is thrown away.  At EREF, our mission is to fund and direct scientific research and educational initiatives for waste management practices to benefit the solid waste industry and the communities it serves.
 Essentially, we want to provide data-driven analysis in order to better inform policy makers and businesses about solid waste generation, management, and more.  
