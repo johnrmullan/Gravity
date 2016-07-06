@@ -8,7 +8,7 @@
 # Site settings
 title: John Mullan
 email: jmullan@live.unc.edu 
-description: A blog by me, John
+description: "One way to get the most out of life is to look upon it as an adventure" - William Feather
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "johnrmullan.github.io" # the base hostname & protocol for your site
 twitter_username: 
