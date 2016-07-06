@@ -10,5 +10,8 @@ Capturing moments is one of my favorite hobbies.  I especially love taking photo
 
 I shoot with a Nikon d3200 with a 50mm fixed lens, as well as with my iPhone 6 camera.  Obviously, the Nikon performs leaps and bounds better than the iPhone, but both still get the job done. 
 
-* Here is one of my favorite photos that I took: [The Old Well](https://www.instagram.com/p/BDnx21tynONVuHrrpPp36m5coyLdLRhQjNmgCk0/?taken-by=johnmulls)
+* Here is one of my favorite photos that I took: 
+
+![Western Adventures](https://codeanywhere.com/api/ca6/file/open/?token=a0066498d39a585968398f8c5f127ef8033aefbcfe12b5ea&connectionId=669865&path=johnrmullan.github.io/IMG_2571.JPG&encoding=UTF-8&id=9d57548b19f9dfdac35977db8020291b&)
+
 
