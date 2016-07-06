@@ -12,7 +12,7 @@ I shoot with a Nikon d3200 with a 50mm fixed lens, as well as with my iPhone 6 c
 
 * Here is one of my favorite photos that I took: 
 
-![Western Adventures](My_container/johnrmullan.github.io/_photos/_DSC0443.JPG)
+![Western Adventures](https://codeanywhere.com/api/ca6/file/open/?token=f3a3247611352385cb28db1cb9886d9bbc8b42fd20208904&connectionId=669865&path=johnrmullan.github.io/_photos/_DSC0443.JPG&encoding=UTF-8&id=59b58d4c11544f7c45bca8d6a8228bf7&)
 
 
 
