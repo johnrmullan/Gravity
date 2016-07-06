@@ -10,9 +10,11 @@ Capturing moments is one of my favorite hobbies.  I especially love taking photo
 
 I shoot with a Nikon d3200 with a 50mm fixed lens, as well as with my iPhone 6 camera.  Obviously, the Nikon performs leaps and bounds better than the iPhone, but both still get the job done. 
 
-* Here is one of my favorite photos that I took: 
-
-![Western Adventures](https://codeanywhere.com/api/ca6/file/open/?token=f3a3247611352385cb28db1cb9886d9bbc8b42fd20208904&connectionId=669865&path=johnrmullan.github.io/_photos/_DSC0443.JPG&encoding=UTF-8&id=59b58d4c11544f7c45bca8d6a8228bf7&)
+* Here are a couple of my favorite photos: 
+  * This photo is from a cross-country road trip that I took with three of my friends.  I took this photo as we were hiking to a lake in Arapaho National Forest. 
+  ![Colorado Adventures](https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0443.JPG?raw=true)
+  * The photo below was from the same trip with my buddies.  It was taken in Manti La Sal National Forest in Utah:  quite literally a mountain oasis amongst a desert. 
+  ![Exploring Utah](https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0968.JPG?raw=true)
 
 
 
