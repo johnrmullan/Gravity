@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Blog Post"
-date:   2016-06-29 19:45:31 +0530
+title:  "Economic, Environmental, and Political Implications of Future Large-Scale Lithium-Ion Battery Storage"
+date:   2016-07-11 21:04:38 +0530
 categories: []
 author: "John Mullan"
 ---
