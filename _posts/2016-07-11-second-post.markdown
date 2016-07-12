@@ -20,6 +20,10 @@ The results were much more interesting than I initially expected, as wide-scale 
 the paper.  As renewable energy gains more market share, lithium-ion storage systems will likely become a huge part of everyday life, which has both negative 
 and positive ramifications. 
 
+To get my document into multiple forms, I used Pandoc, which is a document converter that can - for all intents and purposes - convert between any
+type of document.  In order to actually convert my document, I created a scipt that took an input (my document in markdown) and ran Pandoc several times
+to get the document into the forms that are linked below.  At the bottom of this post is a link to the script I created. 
+
 Below are links to my paper in several different formats (.docx, .html, .odt, and .pdf):
 
 [docx](https://github.com/johnrmullan/assignment-3-convert-some-documents-johnrmullan/blob/master/enec490paper.docx)
@@ -29,4 +33,8 @@ Below are links to my paper in several different formats (.docx, .html, .odt, an
 [odt](https://github.com/johnrmullan/assignment-3-convert-some-documents-johnrmullan/blob/master/enec490paper.odt)
 
 [pdf](https://github.com/johnrmullan/assignment-3-convert-some-documents-johnrmullan/blob/master/enec490paper.pdf)
+
+Here is the script:
+
+[script](https://github.com/johnrmullan/assignment-3-convert-some-documents-johnrmullan/blob/master/johnrmullan-convert-docs.sh)
 
