@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Assignment 5: Database Interface
+title:  Assignment 5 - Database Interface
 date:   2016-07-18 19:56:38 +0530
 categories: []
 author: "John Mullan"
