@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Life List    
+permalink: /Life List/
 ---
 # School Cafeteria Discards Assessment Project (SCrAP)
 
