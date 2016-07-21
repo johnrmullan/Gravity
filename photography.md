@@ -12,9 +12,9 @@ I shoot with a Nikon d3200 with a 50mm fixed lens, as well as with my iPhone 6 c
 
 * Here are a couple of my favorite photos: 
   * This photo is from a cross-country road trip that I took with three of my friends.  I took this photo as we were hiking to a lake in Arapaho National Forest. 
-  <img src="https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0443.JPG?raw=true" height="50%" width="50%"/>
+  <img src="https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0443.JPG?raw=true" height="70%" width="70%"/>
   * The photo below was from the same trip with my buddies.  It was taken in Manti La Sal National Forest in Utah:  quite literally a mountain oasis amongst a desert. 
-  ![Exploring Utah](https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0968.JPG?raw=true)
+  <img src="https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0968.JPG?raw=true" height="70%" width="70%"/>
 
 
 
