@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 body {
-    background-image: url("https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/_DSC0176.JPG?raw=true");
+    background-image: url("https://github.com/johnrmullan/johnrmullan.github.io/blob/master/_photos/IMG_2313.JPG?raw=true");
     background-size:     cover;
 }
           
@@ -19,7 +19,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #06E2BD;
+$text-color:       #101010;
 $background-color: #DDF8FF;
 $brand-color:      #2a7ae2;
 
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #06E2BD !important;
+    color: #101010 !important;
     text-decoration: none;
 
     &:visited {
@@ -170,7 +170,7 @@ a {
       }
     }
     &.postLink{
-      color: #06E2BD !important;
+      color: #101010 !important;
       &:hover {
 
           border-bottom: 1px dotted black ;
@@ -181,7 +181,7 @@ a {
       }
     }
     &.post-title-link{
-      color: #06E2BD !important;
+      color: #101010 !important;
       &:hover {
 
           border-bottom: 1px dotted black !important ;
